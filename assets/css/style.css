@@ -21,9 +21,4 @@ main{
     [class^="col"]{
         min-height: 150px;
     }
-
-    .container_{
-        width: 90%;
-        margin: auto;
-    }
 }
