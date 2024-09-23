@@ -1,0 +1,13 @@
+/* #region color palette */
+:root{
+    --block-light: #e8e9ea;
+    --block-lighter: #f8f9fa;
+    --block-darker: #212529;
+    --block-dark: #6c757d;
+    --block-blue: #0d6efd;
+    --block-green: #198754;
+    --block-yellow: #ffc107;
+    --block-red: #dc3545;
+    --block-acqua: #0dcaf0;
+}
+/* #endregion color palette */
