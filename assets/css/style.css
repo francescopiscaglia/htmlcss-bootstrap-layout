@@ -11,3 +11,19 @@
     --block-acqua: #0dcaf0;
 }
 /* #endregion color palette */
+
+.debug *{
+    border: 1px dashed;
+}
+
+main{
+
+    [class^="col"]{
+        height: 150px;
+    }
+
+    .container_{
+        width: 90%;
+        margin: auto;
+    }
+}
